@@ -1,0 +1,8 @@
+main
+main.exe
+*.o
+*.obj
+*.out
+*.exe
+build/
+.DS_Store
